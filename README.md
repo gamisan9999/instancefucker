@@ -1,0 +1,2 @@
+# instancefucker
+terminate AWS resources
